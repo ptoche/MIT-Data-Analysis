@@ -2,33 +2,10 @@
 %\usepackage[utf8]{inputenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}% include images/graphics
-\usepackage{xcolor}% nice colors
+\usepackage{xcolor}% select colors
 \setlength{\parindent}{0pt}% no indents
 \usepackage[sorting=none]{biblatex}% manage bibliography: do not sort references
-\addbibresource{references.bib}% import the bibliography
-
-% TITLE | AUTHOR | DATE
-\author{Name: (your user name)}% author's name
-\title{Written Report – 6.419x Module 1}% name of report
-\date{\today}% date of report
-
-% Save the title, author, date
-\makeatletter
-\let\thetitle\@title
-\let\theauthor\@author
-\let\thedate\@date
-\makeatother
-
-% HEADER | OPTIONAL
-\usepackage{fancyhdr}% header will be printed on every page
-\lhead{\theauthor}% author's name
-\rhead{\thetitle}% name of report
-\lfoot{\thedate}% add date
-\pagestyle{fancy}% set headers
-
-% SHOW/SUPPRESS HEADERS: COMMENT OUT
-\pagestyle{empty}
-
+\addbibresource{references.bib}% import the bibliography from the same directory
 
 % QUESTIONS | SOLUTION ENVIRONMENTS
 % question environment for consistency and to save on typing
@@ -43,16 +20,11 @@
    \item\relax}
   {\endlist\ignorespacesafterend}
 
-% command \sepline defines a gray horizontal line
-\newcommand*\sepline{%
-  \nopagebreak\vspace{\baselineskip}\noindent\textcolor{black!10!white}{\rule{\textwidth}{2pt}}\vspace{\baselineskip}
-}
-
 
 \begin{document}
 
-\section*{\centering\thetitle}
-\subsection*{\raggedleft\theauthor}
+\section*{\centering Written Report – 6.419x Module 1}
+\subsection*{\raggedleft Name: (your user name)}
 
 
 \subsection*{Problem 1.1}
@@ -75,9 +47,6 @@ For each of the NFIP study, and the Randomized controlled double blind experimen
 \begin{solution}
 % write your solution here
 \end{solution}
-
-
-\sepline
 
 
 \subsection*{Problem 1.3}

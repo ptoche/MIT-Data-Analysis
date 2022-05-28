@@ -1,4 +1,4 @@
-PWD /Users/patricktoche/Spaces/StudyPlace/StudyPlace - Selection/Current/2022-MIT/MIT-Data-Analysis/report-template
+PWD /Users/patricktoche/Github/MIT-Data-Analysis/report-template
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -308,17 +308,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT ./report-template.aux
 INPUT report-template.aux
 INPUT report-template.aux
